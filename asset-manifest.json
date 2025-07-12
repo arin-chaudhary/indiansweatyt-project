@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indiansweatyt-project/static/css/main.742efbb4.css",
+    "main.js": "/indiansweatyt-project/static/js/main.3088cd06.js",
+    "static/js/453.7737716d.chunk.js": "/indiansweatyt-project/static/js/453.7737716d.chunk.js",
+    "index.html": "/indiansweatyt-project/index.html",
+    "main.742efbb4.css.map": "/indiansweatyt-project/static/css/main.742efbb4.css.map",
+    "main.3088cd06.js.map": "/indiansweatyt-project/static/js/main.3088cd06.js.map",
+    "453.7737716d.chunk.js.map": "/indiansweatyt-project/static/js/453.7737716d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742efbb4.css",
+    "static/js/main.3088cd06.js"
+  ]
+}
